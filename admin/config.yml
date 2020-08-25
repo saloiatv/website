@@ -2,6 +2,7 @@ backend:
   name: github
   repo: saloiatv/website
   branch: develop
+  site_domain: demo.saloia.tv
 media_folder: "images/uploads"
 collections:
   - name: "post"
